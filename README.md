@@ -1,2 +1,2 @@
 # WebDesign
-This is to learn Web Design.
+This is the Project to learn Web Designing.
